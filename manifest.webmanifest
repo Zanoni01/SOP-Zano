@@ -4,8 +4,8 @@
   "description": "Painel diário interativo SOP-Z para PMRv, Marzom e vida pessoal.",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
+  "background_color": "#f4f7fb",
+  "theme_color": "#f4f7fb",
   "orientation": "portrait-primary",
   "icons": [
     {
